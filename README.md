@@ -25,5 +25,9 @@ npm install
 npm start
 
 
-Note:
-Deployment is not completed due to time constraint. Application works locally as expected
+# Deployment
+
+Due to time constraints, deployment is not completed.
+
+ Project is fully functional locally.
+ Both backend and frontend run with instructions below.
